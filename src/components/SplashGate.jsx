@@ -60,7 +60,7 @@ export default function SplashGate({ children }) {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.15 }}
               >
-                Waiting for..
+                Getting Ready..
               </motion.h1>
 
               <motion.p
